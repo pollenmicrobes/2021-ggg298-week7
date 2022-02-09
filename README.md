@@ -1,2 +1,3 @@
-# 2021-ggg298-week7
-class week 7 with Titus winter 2022
+# 2021-ggg298-week6
+class week 6 with Titus winter 2022
+
